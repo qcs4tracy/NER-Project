@@ -1,0 +1,4 @@
+numpy
+nltk
+python-crfsuite
+scikit-learn
